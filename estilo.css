@@ -1,5 +1,5 @@
 body {
-    
+   
 }
 
 #banner {
@@ -10,7 +10,6 @@ body {
     background: #CCCCCC;
     padding: 30px;
 }
-
 .titulo-principal {
     padding-left: 20px;
 }
@@ -40,6 +39,9 @@ em strong {
     padding: 20px;
 }
 
+.titulo-centralizado {
+    text-align: center;
+}
 ul {
     display: inline-block;
     vertical-align: top;
